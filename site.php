@@ -7,6 +7,8 @@
 </head>
 <body>
 
+    https://datascientest.com/sql-tout-savoir#:~:text=SQL%20ou%20%C2%AB%20Structured%20Query%20Language,les%20donn%C3%A9es%20qu'elles%20contiennent   (sql tout sur le language de base de données)
+    https://tecfa.unige.ch/guides/tie/html/mysql-intro/mysql-intro-4.html	(Définition de données table)
     https://www.site24x7.com/fr/tools/selecteur-de-code-couleur.html
     https://www.w3schools.com/
     https://stackoverflow.com/
@@ -21,6 +23,10 @@
     https://openclassrooms.com/fr/
     https://www.geeksforgeeks.org/
     
+    Pour tout savoir sur les injections SQL (SQLi) et les moyens de se protéger contre ce 
+    type d'attaque, voici quelques liens à consulter:
+    https://owasp.org/
+    https://www.invicti.com/blog/web-security/sql-injection-cheat-sheet/
     
 </body>
 </html>
