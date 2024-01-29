@@ -23,10 +23,115 @@
     https://openclassrooms.com/fr/
     https://www.geeksforgeeks.org/
     
+    
+    
     Pour tout savoir sur les injections SQL (SQLi) et les moyens de se protéger contre ce 
     type d'attaque, voici quelques liens à consulter:
     https://owasp.org/
     https://www.invicti.com/blog/web-security/sql-injection-cheat-sheet/
     
+    
+    
+    referencement :
+	    taux clic google :
+	    	https://palevesque.com/ctr-resultat-de-recherche
+	    	
+	    SERPs :
+	    	https://www.webrankinfo.com/dossiers/google-search/serp
+	    	
+	    nom de domaine :
+	    	https://www.webrankinfo.com/dossiers/debutants/choix-nom-de-domaine#conseil-10
+	    	
+	    sitemap XML :
+	    	https://www.webrankinfo.com/dossiers/sitemaps/tutoriel-fichier-sitemap
+	    	
+	    balise robot :
+	    	https://www.webrankinfo.com/dossiers/conseils/balise-meta-robots
+	    	
+	    optimiser balise :
+	    	https://www.eskimoz.fr/balise-title-meta-description
+	    	
+	    strategie mot-clé : 
+	    	https://www.redacteur.com/blog/6-outils-trouver-des-mots-cles
+	    	
+	    L’arborescence d’un site web :
+	    	https://www.lafabriquedunet.fr/conseils/conception-site-web/arborescence-site-web
+	    	
+	    url :
+	    	https://www.webrankinfo.com/dossiers/techniques/tutoriel-url-rewriting
+	    	
+	    Carbon calculator :
+	    	https://www.websitecarbon.com/
+	    	
+	    vitesse de chargement :
+	    	https://www.seo.fr/informations/vitesse
+	    	
+	    contrainte google :
+	    	https://www.futura-sciences.com/tech/actualites/internet-google-chrome-fait-guerre-sites-trop-lents-78293
+	    	https://www.webrankinfo.com/dossiers/referencement-mobile/speed-update
+	    	https://blog-fr.orson.io/referencer-son-site-seo/site-web-lent-que-faire
+	    	https://developers.google.com/speed/pagespeed/insights/?hl=fr
+	    	
+	    gérer le cache :
+	    	https://www.mnot.net/cache_docs/index.fr.html
+	    
+	    optimiser les ressources :
+	    	https://www.it-connect.fr/quest-ce-que-la-minification
+	    	
+	    Optimiser le poids des images :
+	    	https://kinsta.com/fr/blog/optimiser-les-images-pour-le-web
+	    	
+	    Des pages AMP :
+	    	https://www.webrankinfo.com/dossiers/referencement-mobile/pages-amp
+	    
+	    Les limites du référencement :
+	    	Un "jeu sans fin"
+		Concurrence
+		Coûts (compétences techniques, campagnes d'achats de mots-clés, suivi)
+		Web marketing, réseaux sociaux, vidéos sur Youtube, buzz...
+		Obtenir des liens : pas si simple
+	    	difficle à obtenir :
+	    		https://www.neocamino.com/seo-referencement-naturel-debutants/faire-le-suivi-de-referencement-de-son-referencement-naturel
+	    		https://www.webrankinfo.com/dossiers/debutants/erreurs-duplicate-content
+	    	Refonte d'un site  garder le référencement déjà acquis
+		Sites multilingues
+		déréférencement :
+			https://www.cnil.fr/fr/le-dereferencement-dun-contenu-dans-un-moteur-de-recherche
+		droit a l'oubli :
+			https://www.cnil.fr/fr/le-droit-leffacement-supprimer-vos-donnees-en-ligne
+		outils :
+			Audit de site : https://search.google.com/search-console/about?hl=fr&utm_source=wmx&utm_medium=wmx-welcome
+	    		Diagnostic de vitesse de chargement : https://freres.peyronnet.eu/comment-utiliser-google-page-speed-ameliorer-vitesse-site
+	    			https://testmysite.withgoogle.com/intl/fr-fr
+	    		Statistiques : https://analytics.google.com/analytics/web/#/report-home/a51355933w83552148p86552654
+	    	tendances :
+	    		https://www.redacteur.com/blog/tendances-seo-2022/
+	    		https://blog.planethoster.com/comment-optimiser-mon-site-pour-la-recherche-vocale																													
+		Sites sur le référencement :
+			https://www.webrankinfo.com/
+			https://www.abondance.com/
+		Le référencement avec Wordpress :
+			Installez et configurez les extensions correspondantes :
+
+		    	Balises <title> et méta description : 
+		    		https://fr.wordpress.org/plugins/all-in-one-seo-pack
+		    	Page Plan du site :
+		    		https://fr.wordpress.org/plugins/wp-sitemap-page + créer une page Plan du site dans lequel vous mettre le shortcode [wp_sitemap_page]
+		    	Fichier sitemap.xml : 
+		    		https://fr.wordpress.org/plugins/google-sitemap-generator
+		    	Fil d'ariane : 
+		    		https://fr.wordpress.org/plugins/breadcrumb-navxt
+		    	Gestion du cache : 
+		    		https://fr.wordpress.org/plugins/w3-total-cache
+		    	Compression des images : 
+		    		https://fr.wordpress.org/plugins/tiny-compress-images
+
+			Vérifiez également les éléments suivants :
+
+		    	Balises de titrage (<h1> etc.) correctement utilisées
+		    	Attributs alt et title des images correctement renseignées via la bibliothèque de médias.
+		    	Présence d'une page 404
+		    	URLs propres : réglages des permaliens
+
 </body>
 </html>
