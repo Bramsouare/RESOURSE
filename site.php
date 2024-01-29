@@ -132,6 +132,28 @@
 		    	Attributs alt et title des images correctement renseignées via la bibliothèque de médias.
 		    	Présence d'une page 404
 		    	URLs propres : réglages des permaliens
+		cookies
+			https://www.cookiebot.com/fr/?utm_source=google&utm_medium=cpc&utm_campaign=fr-brand&utm_device=c&utm_term=cookiebot&utm_content=fr-fr-cookiebot-
+			brand&gclid=Cj0KCQjwiZqhBhCJARIsACHHEH-q_f_Pnmhpl58LMCxD1Czf_6m3BZY-YQch1RFprpiFScHzvc-d3nQaAo23EALw_wcB
+			
+			https://www.onetrust.fr/rgpd-et-protection-des-donnees/
+			https://cookie-script.com/fr/
+			https://www.cookieconsent.com/
+			https://tarteaucitron.io/fr/
+			sanction :
+				https://donnees-rgpd.fr/sanction/
+		le Règlement Général sur la Protection des Données (RGPD) :
+			    https://www.lextant-avocats.com/fr/actualites/id-46-protection-donnees-personnelles-
+			    		reglement#:~:text=Une%20donn%C3%A9e%20%C3%A0%20caract%C3%A8re%20personnelle&text=Il%20s'agit%20de%20toute,par%20le%20croisement%20de%20donn%C3%A9es.)
+			    https://www.dastra.eu/fr/guide/8-regles-d%27or-de-la-conformite-RGPD/357
+			    https://www.cnil.fr/fr/la-prospection-commerciale-par-courrier-electronique#:~:text=Le%20consentement%20doit%20%C3%AAtre%20libre,d'utilisation%20ne%20peut%20suffire
+			    https://www.cnil.fr/fr/cnil-direct/question/qui-peut-me-demander-mon-numero-de-securite-sociale-nir
+			    https://www.donneespersonnelles.fr/condamnations-infractions-et-mesures-de-surete
+			    https://www.betterweb.fr/blog/les-trois-principes-de-la-securite
+			    https://www.cnil.fr/fr/respecter-les-droits-des-personnes
+			    https://www.cnil.fr/fr/professionnels-comment-repondre-une-demande-de-droit-dacces
+
+
 
 </body>
 </html>
